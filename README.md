@@ -1,6 +1,6 @@
 # FakeHackerView
 
-Fake Hacker View, lines of random caracter.
+Fake Hacker View, lines of random characters.
 
 ## Preview
 
